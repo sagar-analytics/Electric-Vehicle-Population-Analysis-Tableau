@@ -102,4 +102,26 @@ Unknown: 46.34%
    ```bash
    git clone https://github.com/sagar-analytics/Electric-Vehicle-Population-Analysis-Tableau.git
    ```
+2. **Open the Tableau workbook**
 
+* Install Tableau Public (free) or Tableau Desktop
+
+* Open the file:
+```bash
+Electric-Vehicle-Population.twbx
+```
+3. **Interact with the dashboard**
+
+* Use filters: CAFV Eligibility, EV Type, Model, State
+
+* Hover on charts for details
+
+* Analyze trends and vehicle distribution
+
+4. **Modify or extend the dashboard as needed**
+
+* Add new visuals
+
+* Connect additional EV datasets
+
+* Publish to Tableau Public
